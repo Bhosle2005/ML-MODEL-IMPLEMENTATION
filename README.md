@@ -26,3 +26,6 @@ Evaluation using MSE, RMSE, MAE, and R² score.
 Efficient data handling using Python libraries like pandas and numpy.
 Model implementation using scikit-learn.
 Visualization with libraries such as matplotlib and seaborn.
+
+## OUTPUT
+
