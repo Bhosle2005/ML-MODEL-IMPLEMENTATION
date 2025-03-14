@@ -28,4 +28,7 @@ Model implementation using scikit-learn.
 Visualization with libraries such as matplotlib and seaborn.
 
 ## OUTPUT
-
+![Image](https://github.com/user-attachments/assets/813f66ce-9a4e-41eb-9c9c-ec26bbc9c3ef)
+![Image](https://github.com/user-attachments/assets/cbfd8570-2503-41e8-b667-58d0f8ffb83c)
+![Image](https://github.com/user-attachments/assets/81179ef0-038f-4e26-8e6c-6c6599470d58)
+![Image](https://github.com/user-attachments/assets/c59a25d8-1cd6-4708-aba9-48dbb4fabcb3)
